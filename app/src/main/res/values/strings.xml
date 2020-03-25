@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ayumu demo</string>
+    <string name="r">R.text</string>
+    <string name="g">G_text</string>
+    <string name="b">B_text</string>
+    <string name="radiojyosei">女性</string>
+    <string name="seibetsu_text">性別</string>
+    <string name="name">Name</string>
+    <string name="tsuki">月</string>
+    <string name="form_name">Name</string>
+    <string name="dansei">男性</string>
+    <string name="jyosei">女性</string>
+    <string name="sonora">その他</string>
+    <string name="seinenngappi">生年月日</string>
+    <string name="tosi">年</string>
+    <string name="getsu">月</string>
+    <string name="nichi">日</string>
+    <string name="nenrei">年齢：</string>
+    <string name="scirocco_cloud">Scirocco Cloudをどこでお知りになりましたか？</string>
+    <string name="hukusuu">(複数回答可)</string>
+    <string name="internet">インターネット</string>
+    <string name="zassi">雑誌記事</string>
+    <string name="yuujinchijin">友人・知人から</string>
+    <string name="semina">セミナー</string>
+    <string name="sonotatta">その他</string>
+    <string name="sousinn">送信</string>
+</resources>
